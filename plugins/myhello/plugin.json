@@ -1,9 +1,0 @@
-{
-  "name": "myhello1",
-  "version": "1.0.0",
-  "description": "一个简单的示例插件，提供 /myhello1 命令",
-  "author": {
-    "name": "DevTeam",
-    "email": "dev@company.com"
-  }
-}
